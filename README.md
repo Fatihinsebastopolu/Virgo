@@ -1,6 +1,6 @@
 ## Note
 
-On systems with Python 3 installed, run build.py and run.py with python3 instead. tests/SHA256 has been ported to Python 3.
+On systems with Python 3 installed, run build.py and run.py with python3 instead. tests/SHA256 has been ported to Python 3. --Sebastian Li
 # Virgo ZK reference implementation
 
 [Virgo](https://eprint.iacr.org/2019/1482) is a doubly-efficient (meaning,
